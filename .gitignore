@@ -52,3 +52,9 @@ out/
 # PDT-specific
 .buildpath
 
+# androidstudio-specific
+.gradle
+/local.properties
+/.idea/workspace.xml
+.DS_Store
+
